@@ -7,4 +7,4 @@ dogs which try to get burger, if they catch player then player automatically thr
 securit cameras, player shoots assortment of bottles at them to deactivate them, otherwise causes for troublesome obstacle
 
 Progress
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/90)
